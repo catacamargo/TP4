@@ -5,8 +5,8 @@
 
 **Integrantes:**
 - Catalina Camargo Di Buccio
-- Facundo ...
-- ...
+- Facundo Ariel Muñoz
+- Pablo Zbrun
 
 ---
 
